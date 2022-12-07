@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(170, 198, 130);
+}
+.mainHeading {
+    font-style: italic;
+}
+li {
+    color: firebrick;
+}
+p {
+    color: yellow;
+}
+.firstDiv {
+    box-shadow: 5px 10px 5px red;
+}
